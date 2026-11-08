@@ -1,0 +1,11 @@
+# In which worlds should the player be able to teleport randomly. If empty, all worlds are allowed.
+worlds:
+  #- world
+
+# Defines a circle where the player can be teleported.
+radius:
+  min: 5000
+  max: 10000
+
+# time the player has to wait until he can rtp again
+cooldown: 300

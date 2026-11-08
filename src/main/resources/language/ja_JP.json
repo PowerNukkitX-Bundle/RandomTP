@@ -1,0 +1,4 @@
+{
+  "randomtp.error.cooldown": "§cあと {%0} 秒待つ必要があります。",
+  "randomtp.error.world_not_allowed": "§cこのワールドではランダムテレポートできません！"
+}

@@ -1,0 +1,4 @@
+{
+  "randomtp.error.cooldown": "§c你还需要等待 {%0} 秒。",
+  "randomtp.error.world_not_allowed": "§c你无法在这个世界中随机传送！"
+}

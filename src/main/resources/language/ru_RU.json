@@ -1,0 +1,4 @@
+{
+  "randomtp.error.cooldown": "§cВам нужно подождать ещё {%0} секунд.",
+  "randomtp.error.world_not_allowed": "§cВы не можете случайно телепортироваться в этом мире!"
+}
